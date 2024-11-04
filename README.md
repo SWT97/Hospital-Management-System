@@ -1,2 +1,2 @@
 # Hospital-Management-System
-Simple Hospital Management System
+Python - Simple Hospital Management System 
